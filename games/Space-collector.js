@@ -1,3 +1,11 @@
+/*
+@title: Space collector
+@author: Gabouin
+@description: you are the pilot of the spaceship and need to collect all the coins to unlock the acces to other maps via the portals. But be aware... rocks are here to block you and aliens are here to follow you and kill you if they touch you. Don't worry, you have 3 lives !
+@tags: ['space', 'shooter']
+@addedOn: 2026-03-15
+*/
+
 const SHIP   = "p"
 const WALL   = "w"
 const COIN   = "c"
